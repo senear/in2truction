@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/in2truction/static/css/main.e0031b11.chunk.css",
-    "main.js": "/in2truction/static/js/main.fea872a6.chunk.js",
-    "main.js.map": "/in2truction/static/js/main.fea872a6.chunk.js.map",
+    "main.js": "/in2truction/static/js/main.66a0efcc.chunk.js",
+    "main.js.map": "/in2truction/static/js/main.66a0efcc.chunk.js.map",
     "runtime-main.js": "/in2truction/static/js/runtime-main.aa4f4a52.js",
     "runtime-main.js.map": "/in2truction/static/js/runtime-main.aa4f4a52.js.map",
     "static/css/2.6e59fa2c.chunk.css": "/in2truction/static/css/2.6e59fa2c.chunk.css",
     "static/js/2.d8fd5eaa.chunk.js": "/in2truction/static/js/2.d8fd5eaa.chunk.js",
     "static/js/2.d8fd5eaa.chunk.js.map": "/in2truction/static/js/2.d8fd5eaa.chunk.js.map",
     "index.html": "/in2truction/index.html",
-    "precache-manifest.7cf54ad185a859d851a9854ae7611139.js": "/in2truction/precache-manifest.7cf54ad185a859d851a9854ae7611139.js",
+    "precache-manifest.81b5bcaea1368235731899e84a9dba37.js": "/in2truction/precache-manifest.81b5bcaea1368235731899e84a9dba37.js",
     "service-worker.js": "/in2truction/service-worker.js",
     "static/css/2.6e59fa2c.chunk.css.map": "/in2truction/static/css/2.6e59fa2c.chunk.css.map",
     "static/css/main.e0031b11.chunk.css.map": "/in2truction/static/css/main.e0031b11.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.6e59fa2c.chunk.css",
     "static/js/2.d8fd5eaa.chunk.js",
     "static/css/main.e0031b11.chunk.css",
-    "static/js/main.fea872a6.chunk.js"
+    "static/js/main.66a0efcc.chunk.js"
   ]
 }
