@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8ac17104a513bbba69db66139d28803",
+    "revision": "6f7f5e3c7b5354242f35b395f55f7771",
     "url": "/in2truction/index.html"
   },
   {
-    "revision": "356fcd91334ebf7d921a",
+    "revision": "9ba39d4db890fb8e3e0e",
     "url": "/in2truction/static/css/2.6e59fa2c.chunk.css"
   },
   {
-    "revision": "8b58fb1333049ad78627",
+    "revision": "658ee8b5664fe540f3eb",
     "url": "/in2truction/static/css/main.e0031b11.chunk.css"
   },
   {
-    "revision": "356fcd91334ebf7d921a",
-    "url": "/in2truction/static/js/2.2e1c3b7f.chunk.js"
+    "revision": "9ba39d4db890fb8e3e0e",
+    "url": "/in2truction/static/js/2.d8fd5eaa.chunk.js"
   },
   {
-    "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/in2truction/static/js/2.2e1c3b7f.chunk.js.LICENSE.txt"
+    "revision": "90377550dd86ed303dd30d8f487872de",
+    "url": "/in2truction/static/js/2.d8fd5eaa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8b58fb1333049ad78627",
-    "url": "/in2truction/static/js/main.fe504850.chunk.js"
+    "revision": "658ee8b5664fe540f3eb",
+    "url": "/in2truction/static/js/main.f916789c.chunk.js"
   },
   {
     "revision": "3b0d51ee979a90639f5e",

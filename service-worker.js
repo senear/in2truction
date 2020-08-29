@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/in2truction/precache-manifest.e1326dd6182f45232168dac482f6eb76.js"
+  "/in2truction/precache-manifest.4ebf323970cd52a3bda4d504cdb8e897.js"
 );
 
 self.addEventListener('message', (event) => {
