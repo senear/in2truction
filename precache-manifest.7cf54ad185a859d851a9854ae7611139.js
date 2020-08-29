@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f7f5e3c7b5354242f35b395f55f7771",
+    "revision": "4722f2a445a714f2059cbd45ca940d09",
     "url": "/in2truction/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/in2truction/static/css/2.6e59fa2c.chunk.css"
   },
   {
-    "revision": "658ee8b5664fe540f3eb",
+    "revision": "88bb52ac67ec7ad2cdd0",
     "url": "/in2truction/static/css/main.e0031b11.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/in2truction/static/js/2.d8fd5eaa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "658ee8b5664fe540f3eb",
-    "url": "/in2truction/static/js/main.f916789c.chunk.js"
+    "revision": "88bb52ac67ec7ad2cdd0",
+    "url": "/in2truction/static/js/main.fea872a6.chunk.js"
   },
   {
     "revision": "3b0d51ee979a90639f5e",
